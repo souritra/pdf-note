@@ -1,0 +1,2 @@
+high_performance_java_persistence = HPJP-1
+Java Persistence with Hibernate  2nd = JPWH -2
